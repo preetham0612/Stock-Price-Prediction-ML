@@ -1,5 +1,4 @@
-Final Year Machine Learning Project – Stock Price Prediction
-A final-year B.Tech project focusing on stock price prediction using deep learning techniques, particularly LSTM models. This project demonstrates how machine learning models can be applied to predict stock market movements through historical data analysis and pattern recognition.
+This is a project focusing on stock price prediction using deep learning techniques, particularly LSTM models. This project demonstrates how machine learning models can be applied to predict stock market movements through historical data analysis and pattern recognition.
 
 📊 Stock Price Prediction
 Stocks (or equities) represent ownership in a company. When you purchase stock, you effectively own a share of the company’s assets and profits. Stock prices fluctuate daily based on market forces, primarily driven by supply and demand. If demand exceeds supply, prices rise—and vice versa.
